@@ -1,3 +1,5 @@
+#SudokuSolver
+
 Here is an automated test report for your work so far on assignment 5. Please note that this is not the mark for your work; it is provided only in the hope that it is useful in developing your solution. Passing these tests does not guarantee your code is free from bugs: after the deadline, your code will be marked against a different, more thorough set of test cases.
 
 Part a and b: Sudoku board
